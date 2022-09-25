@@ -6,7 +6,7 @@ I want this game to be a highly competitive FPS wizard battle. The main game mod
 
 Also there has to be physical attacks incase players are out of mana but they are weaker than magic (ofc).
 
-## Game Engine
+### Game Engine
 I am having trouble deciding on what engine should I use. Either Unity or Unreal 4/5 since I am more familiar with Unity but I want the lighting and the look of assets of Unreal. So far I am trying both to see what are the differences and which best fits this game. I also don't know how the multiplayer will go on Unreal.
 
 I'll do more research on what to use since I have to start somewhere and I also don't want to waste time when I have to decide to switch.
