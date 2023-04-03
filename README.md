@@ -26,6 +26,7 @@ I'll do more research on what to use since I have to start somewhere and I also 
 - Poison Cloud: A spell that creates a poisonous cloud that damages enemies over time and reduces their effectiveness.
 - Gravity Well: A spell that creates a gravitational field that push/pulls enemies towards its center, making them easier to hit and control.
 - Tracker: A spell that highlights the enemy through walls for X amount of seconds
+- Noise: A spell that creates a loud noise on point of contact
 
 ### Buffs/Self
 - Shield: A spell that creates a protective shield around the caster, reducing damage taken and deflecting enemy projectiles.
